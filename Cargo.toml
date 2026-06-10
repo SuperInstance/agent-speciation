@@ -1,4 +1,5 @@
 [package]
+description = "agent-speciation"
 repository = "https://github.com/SuperInstance/agent-speciation"
 name = "agent-speciation"
 version = "0.1.0"
